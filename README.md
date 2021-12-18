@@ -5,7 +5,7 @@ This is a sample website hosted - docker container with PHP-FPM and NGINX using 
 - [Install docker](https://docs.docker.com/engine/install/)
 - [Install docker-compose](https://docs.docker.com/compose/install/)
 
-## prerequisite
+## Prerequisite
 
 1. A PHP application - website
 
