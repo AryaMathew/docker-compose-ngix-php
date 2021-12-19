@@ -1,4 +1,4 @@
-# docker-compose-ngix-php
+# docker-compose-nginx-php
 This is a sample website hosted - docker container with PHP-FPM and NGINX using docker-compose.
 
 ## Requirements
